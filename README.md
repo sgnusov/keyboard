@@ -5,5 +5,5 @@ Code for stm32 based keyboard with addressable rgm lighting incorporating ws2812
 
 ## Credit
  - [microLED library](https://github.com/GyverLibs/microLED)
- - [GyberLamp](https://github.com/AlexGyver/GyverLamp)
+ - [GyverLamp](https://github.com/AlexGyver/GyverLamp)
 
